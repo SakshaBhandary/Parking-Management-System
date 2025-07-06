@@ -1,4 +1,4 @@
-# Parking Management-System
+# Parking Management System
 A smart parking management system designed to monitor vehicle count, manage available parking slots, and allocate parking spaces in real-time using Arduino UNO and ultrasonic sensors. This system is ideal for small-scale parking lots and reduces manual effort in tracking availability.
 
 ## Features <img src="https://github.com/user-attachments/assets/514c03f4-91a9-44e2-b533-5e36335cd4a8" width="20" height="20">
