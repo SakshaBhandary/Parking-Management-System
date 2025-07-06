@@ -21,4 +21,4 @@ A smart parking management system designed to monitor vehicle count, manage avai
 
 4. Overflow Control: Prevents counting if parking is full.
 
-5. > The project demonstrates key skills in sensor integration, I2C communication, real-time data display with OLED, and event-driven logic using Arduino.
+> The project demonstrates key skills in sensor integration, I2C communication, real-time data display with OLED, and event-driven logic using Arduino.
